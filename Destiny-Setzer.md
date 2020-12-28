@@ -3,10 +3,10 @@ layout: resume #don't touch
 categories: [hire, graduation, austincodingacademy] # don't touch
 
 fullname: Destiny Setzer
-jobtitle: JavaScript Developer
+jobtitle: Full Stack Developer
 
 location: Austin, TX
-blurb: "I'm a design-oriented front-end developer who strives to build immersive and beautiful web applications through carefully crafted code and user-centric design."
+blurb: "I'm a design-oriented Full Stack Developer who strives to build immersive and beautiful web applications through carefully crafted code and user-centric design. Whether it be in crafting design visuals or puzzling over coding challenges, I'm thrilled for the opportunity to do good work with fun, imaginative people."
 
 # first item must be JavaScript or C# or .NET or C#/.NET
 # the first 3 will display on your profile card on the main page. but list as many as you want, they will be all be visible on your individual profile page
@@ -55,5 +55,5 @@ education:
 projects:
   - name: BeerMe
     desc: BeerMe is a craft beer library and recommendation app.  Where you can search for beers by style, learn about their flavors, and get to know common beer terms to make you a part of the educated beer drinker elite.
-    url: # link to your deployed project
+    url: https://beer-me-tx.herokuapp.com/
 ---
